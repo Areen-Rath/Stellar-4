@@ -85,6 +85,6 @@ const styles = StyleSheet.create({
     explanationText: {
         marginTop: 20,
         fontSize: 15,
-        color: 'white'
+        color: "white"
     }
 });
